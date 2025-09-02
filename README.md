@@ -1,4 +1,4 @@
-# yali - social enginerring
+# yali -  Social Engineering Toolkit
 # Social Engineering Toolkit
 
 This repository contains scripts, templates, and documentation for simulating 

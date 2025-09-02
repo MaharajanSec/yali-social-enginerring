@@ -12,31 +12,6 @@ For **educational and authorized security testing only**.
 - **training/** → Awareness & role-play training materials
 - **reports/** → Report templates for SE engagements
 
-
-Social-Engg/
-│
-├── payloads/ # Phishing & SE payloads
-│ ├── email/ # Email phishing templates
-│ ├── sms/ # SMS lures & templates
-│ └── voice/ # Vishing scripts & call scenarios
-│
-├── recon/ # Target profiling & OSINT
-│ ├── linkedin_scraper.py
-│ └── metadata_extractor.py
-│
-├── tools/ # Automation & utilities
-│ ├── fake_profile_gen.py
-│ ├── url_shortener.py
-│ └── osint_tool.py
-│
-├── training/ # Awareness & Red Team roleplay
-│ ├── awareness_checklist.md
-│ └── roleplay_guides.md
-│
-└── reports/ # Templates for SE campaigns
-├── engagement_report_template.md
-└── phishing_campaign_summary.md
-
 ##  Disclaimer
 This project is intended for educational purposes, awareness training, and authorized red-team simulations only.
 Any misuse of the tools or templates provided here is strictly prohibited and may lead to legal consequences.
